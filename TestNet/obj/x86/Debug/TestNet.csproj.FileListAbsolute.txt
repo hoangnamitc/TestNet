@@ -1,0 +1,7 @@
+D:\Project_Laptrinh\C#\TestNet\TestNet\bin\Debug\TestNet.exe
+D:\Project_Laptrinh\C#\TestNet\TestNet\bin\Debug\TestNet.pdb
+D:\Project_Laptrinh\C#\TestNet\TestNet\obj\x86\Debug\TestNet.frmTestnet.resources
+D:\Project_Laptrinh\C#\TestNet\TestNet\obj\x86\Debug\TestNet.Properties.Resources.resources
+D:\Project_Laptrinh\C#\TestNet\TestNet\obj\x86\Debug\TestNet.csproj.GenerateResource.Cache
+D:\Project_Laptrinh\C#\TestNet\TestNet\obj\x86\Debug\TestNet.exe
+D:\Project_Laptrinh\C#\TestNet\TestNet\obj\x86\Debug\TestNet.pdb
